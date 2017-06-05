@@ -1,0 +1,16 @@
+.main {
+  display: inline-block;
+  background-color: #F6FFFB;
+
+}
+
+.borders {
+  top: 0px;
+  margin:0px;
+  padding: 0px 2px 2px 3px;
+  border-width: 2px;
+  border-bottom-width:2px;
+  border-bottom-color:gray;
+  border-bottom-style: solid;
+  width: 100%;
+}
